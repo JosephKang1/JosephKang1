@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning on a deeper level **Javascript, C#, Typescript and AWS Technologies**
 
-- ⚡ Fun facts about me **I'm Korean American**
+- ⚡ Facts about me **Korean American, Computer Engineer with Comp Sci Minor, Cats are my favorite animal**
 
 <p align="left">
 </p>
