@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, My Name is Joseph Kang</h1>
+
+![Background](https://github.com/JosephKang1/JosephKang1/blob/main/south%20korea%20pic.avif)
 <h3 align="left">Passionate developer from Saint Louis, MO</h3>
 
 - 🌱 I’m currently learning on a deeper level **Javascript, C#, Typescript and AWS Technologies**
