@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning on a deeper level **Javascript, C#, Typescript and AWS Technologies**
 
-- ⚡ Fun facts about me **I like to read, run, and stay active :)**
+- ⚡ Fun facts about me **I'm Korean American**
 
 <p align="left">
 </p>
