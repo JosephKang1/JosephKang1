@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, My Name is Joseph Kang</h1>
-<h3 align="center">Passionate developer from Saint Louis, MO</h3>
+<h3 align="left">Passionate developer from Saint Louis, MO</h3>
 
 - 🌱 I’m currently learning on a deeper level **Javascript, C#, Typescript and AWS Technologies**
 
-- ⚡ Fun fact **I like to read, run, and stay active :)**
+- ⚡ Fun facts about me **I like to read, run, and stay active :)**
 
 <p align="left">
 </p>
